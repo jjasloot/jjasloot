@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjasloot
 - 👀 I’m interested in C# development, public transport and home automation
 - 📫 How to reach me 
-  - twitter @jjasloot
+  - bluesky @jjasloot.nl
   
 
 <!---
